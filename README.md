@@ -8,6 +8,7 @@ This package aims to make it quick and simple to kick-start your project, using 
 * gulp (^3.9.1)
 * gulp-postcss (^6.4.0)
 * gulp-sass (^3.1.0)
+* postcss-flexbugs-fixes (^2.1.0)
 * autoprefixer (^6.7.7)
 
 ## How do I use this?
