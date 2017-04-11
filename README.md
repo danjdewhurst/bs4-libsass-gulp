@@ -1,7 +1,5 @@
 # bs4-libsass-gulp
-This is a starter template for people wanting to use Bootstrap 4 and LibSass. It occured to me that there wasn't any starting templates for people wanting to develop using Bootstrap 4, and all the latest and greatest technologies surrounding it.
-
-This package aims to make it quick and simple to kick-start your project, using [Bootstrap 4](https://v4-alpha.getbootstrap.com/), and a already setup gulpfile using [LibSass](http://sass-lang.com/libsass) to make compile times super quick.
+This project provides a boilerplate for people wanting to create web applications using the latest and greatest technologies. We utilise Bootstrap 4, LibSass and a bunch of other useful packages to make the build process painless and fast (We use a wrapper for LibSass instead of Ruby to compile SASS - *it's seriously quick*).
 
 ## What's included?
 * bootstrap (^4.0.0-alpha.6)
