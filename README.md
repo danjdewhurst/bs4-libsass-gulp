@@ -28,3 +28,5 @@ To maximise browser compatiblity, we include a handful of clever packages into o
 * https://github.com/luisrudge/postcss-flexbugs-fixes - to fix all of [flexbugs](https://github.com/philipwalton/flexbugs) issues.
 * https://github.com/7rulnik/postcss-flexibility - to add `-js-display: flex` styles automatically for [flexiblilty](https://github.com/jonathantneal/flexibility).
 * https://github.com/postcss/autoprefixer - to add browser vendor prefixes.
+
+To see what Bootstrap 4 supports in more detail, look [here](https://v4-alpha.getbootstrap.com/getting-started/browsers-devices/). With the above additions to our build process, we should only increase this. In my testing, IE 9 works decently in most scenarios.
