@@ -17,7 +17,7 @@ This package aims to make it quick and simple to kick-start your project, using 
 * Make sure you have [Yarn](https://yarnpkg.com/en/docs/install) installed.
 * Run `yarn install`.
 * Run `gulp` to compile `src/sass/style.scss` into `public_html/assets/css/style.scss` or `gulp watch` to automatically compile your sass files when they change.
-* *Note: To make use of [flexiblilty](https://github.com/jonathantneal/flexibility), you must include it's JavaScript file on all of your pages.*
+* *Note: To make use of [flexiblilty](https://github.com/jonathantneal/flexibility), you must include it's JavaScript file on any page you want it to do its magic.*
 
 The `style.scss` file already has the latest Bootstrap 4 version imported, so you can just import your other sass files below it.
 
