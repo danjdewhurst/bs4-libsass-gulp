@@ -1,5 +1,5 @@
 # bs4-libsass-gulp
-This project provides a boilerplate for people wanting to create web applications using the latest and greatest technologies. We utilise (Bootstrap 4)[https://v4-alpha.getbootstrap.com/], (LibSass)[http://sass-lang.com/libsass] and a bunch of other useful packages to make the build process painless and fast (We use a wrapper for (LibSass)[http://sass-lang.com/libsass] instead of (Ruby)[https://www.ruby-lang.org/en/] to compile SASS - *it's seriously quick*).
+This project provides a boilerplate for people wanting to create web applications using the latest and greatest technologies. We utilise [Bootstrap 4](https://v4-alpha.getbootstrap.com/), [LibSass](http://sass-lang.com/libsass) and a bunch of other useful packages to make the build process painless and fast (We use a wrapper for [LibSass](http://sass-lang.com/libsass) instead of [Ruby](https://www.ruby-lang.org/en/) to compile SASS - *it's seriously quick*).
 
 ## What's included?
 * bootstrap (^4.0.0-alpha.6)
